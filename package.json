@@ -1,10 +1,10 @@
 {
   "name": "ss-cli-atm",
-  "version": "1.0.2",
+  "version": "2.0.3",
   "description": "CLI ATM made with Typescript and Node.js while using Inquirer for user input.",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
